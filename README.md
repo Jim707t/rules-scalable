@@ -7,5 +7,5 @@ result : https://jim707t.github.io/rules-scalable/
 
 
 ```
-git clone 
+git clone https://github.com/Jim707t/rules-scalable.git
 ```
